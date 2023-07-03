@@ -1,5 +1,5 @@
 # DjangoAPI
 Simple API using Django
 
-# Steps to runthe project
+# Steps to run the project
 
