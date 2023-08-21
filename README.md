@@ -6,6 +6,9 @@
 1. Install the requirements.txt by running
    
    pip install -r requirements.txt
+   
+3. Make migrations
 
+       python manage.py makemigrations
 
 # 
