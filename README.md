@@ -5,7 +5,7 @@
 # How to run the project
 1. Install the requirements.txt by running
    
-       python manage.py makemigrations
+       pip install -r requirements.txt
    
 3. Make migrations
 
