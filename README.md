@@ -6,12 +6,16 @@
 
 1. Clone the project by running 
    
-       git clone 
+       git clone
+
+  2. Create a virtual env and activate it by running
    
-2. Install the requirements.txt by running
+       source env/bin/activate
+   
+3. Install the requirements.txt by running
    
        pip install -r requirements.txt
    
-3. Make migrations
+4. Make migrations
 
        python manage.py makemigrations
