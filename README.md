@@ -10,5 +10,3 @@
 3. Make migrations
 
        python manage.py makemigrations
-
-# 
