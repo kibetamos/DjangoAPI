@@ -10,7 +10,7 @@
 
   2. Create a virtual env and activate it by running
    
-       source env/bin/activate
+         source env/bin/activate
    
 3. Install the requirements.txt by running
    
