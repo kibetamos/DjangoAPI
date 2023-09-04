@@ -10,7 +10,7 @@
 
   2. Create a virtual env and activate it by running :
 
-        python -m venv env
+         python -m venv env
 
    
          source env/bin/activate
