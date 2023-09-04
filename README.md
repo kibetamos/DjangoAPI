@@ -9,14 +9,17 @@
        git clone git@github.com:kibetamos/DjangoAPI.git
 
   2. Create a virtual env and activate it by running :
+
+        python -m venv env
+
    
          source env/bin/activate
    
-3. Install the requirements.txt by running :
+4. Install the requirements.txt by running :
    
        pip install -r requirements.txt
    
-4. Make migrations :
+5. Make migrations :
 
        python manage.py makemigrations
-5. 
+6. 
