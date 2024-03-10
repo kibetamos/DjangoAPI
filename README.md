@@ -1,6 +1,7 @@
 # DjangoAPI
   Simple API using Django
 
+
 # How to run the project
 
 1. Clone the project by running :
