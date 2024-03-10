@@ -19,7 +19,6 @@
    
        pip install -r requirements.txt
 
-   
 6. Make migrations :
 
        python manage.py makemigrations
