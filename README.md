@@ -18,6 +18,7 @@
 5. Install the requirements.txt by running :
    
        pip install -r requirements.txt
+
    
 6. Make migrations :
 
