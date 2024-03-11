@@ -20,6 +20,5 @@
 6. Make migrations :
 
        python manage.py makemigrations
-   
 7. Start server by running :
        python manage.py runserver 
