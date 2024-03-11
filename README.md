@@ -5,7 +5,6 @@
 1. Clone the project by running :
    
        git clone git@github.com:kibetamos/DjangoAPI.git
-
   2. Create a virtual env
 
           python -m venv env
