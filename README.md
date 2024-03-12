@@ -8,13 +8,14 @@
           python -m venv env
      
   4. Activate it by running :
+     
          source env/bin/activate
    
-5. Install the requirements.txt by running :
+6. Install the requirements.txt by running :
        pip install -r requirements.txt
 
-6. Make migrations :
+7. Make migrations :
 
        python manage.py makemigrations
-7. Start server by running :
+8. Start server by running :
        python manage.py runserver 
