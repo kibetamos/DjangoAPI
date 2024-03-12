@@ -20,4 +20,5 @@
        python manage.py makemigrations
    
 9. Start server by running :
+    
        python manage.py runserver 
