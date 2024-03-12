@@ -6,7 +6,6 @@
   2. Create a virtual env
           python -m venv env
   3. Activate it by running :
-   
          source env/bin/activate
    
 5. Install the requirements.txt by running :
