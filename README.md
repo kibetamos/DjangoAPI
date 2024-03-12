@@ -12,9 +12,10 @@
          source env/bin/activate
    
 6. Install the requirements.txt by running :
+   
        pip install -r requirements.txt
 
-7. Make migrations :
+8. Make migrations :
 
        python manage.py makemigrations
    
