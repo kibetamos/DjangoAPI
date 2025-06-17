@@ -27,18 +27,25 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-
+APPEND_SLASH = True
 # Application definition
 
 INSTALLED_APPS = [
+    # Django built-in apps
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'EmployeeApp.apps.EmployeeappConfig',
+    
+    # Third-party apps
     'rest_framework',
+    
+    # Local apps (choose one format)
+    'EmployeeApp',
+    # OR
+    # 'EmployeeApp.apps.EmployeeappConfig',
 ]
 
 MIDDLEWARE = [
