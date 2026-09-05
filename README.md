@@ -1,5 +1,6 @@
 # DjangoAPI
 
+
 A simple RESTful API built using Django and Django REST Framework.
 
 ## How to Run the Project
